@@ -1,0 +1,1 @@
+jar cf jasipe.jar out/production/jasipe/
